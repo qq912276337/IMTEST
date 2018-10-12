@@ -1,0 +1,6 @@
+framework module IMTEST {
+  umbrella header "IMTEST-umbrella.h"
+
+  export *
+  module * { export * }
+}
